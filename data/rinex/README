@@ -1,0 +1,3 @@
+Please ask Dr. Daniele Borio or Dr. Ciro Gioia (JRS, Ispra, Italy) for rinex obs
+files and use ../examplesi/build/rnx_2_gtsam to generate input files and store
+them in ../gtsam/ to run the examples and make plots
